@@ -6,7 +6,6 @@
 # Print both results
 
 inputNum = int(input("Enter a number: "))
-evenOdd=inputNum%2==0
 
 print("Positive even number" if inputNum > 0 and inputNum%2==0 
 else "Positive odd number" if inputNum > 0 
